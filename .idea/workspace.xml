@@ -173,7 +173,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kispython-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -186,8 +186,8 @@
       <recent name="C:\Users\ivasn\PycharmProjects\kurs_alg\vvedenie" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Fin.treesort">
-    <configuration name="C.anna" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.B.Roads_in_X_town">
+    <configuration name="A.Pilim_gos_bedjet)))" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurs_alg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,12 +195,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_sprint" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_sprint" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_sprint/C.anna.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_sprint/A.Pilim_gos_bedjet))).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="D.ind" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="B.Roads_in_X_town" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurs_alg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,12 +217,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_sprint" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_sprint" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_sprint/D.ind.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_sprint/B.Roads_in_X_town.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="F.maxdeap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="G" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurs_alg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,12 +239,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_sprint" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_sprint" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_sprint/F.maxdeap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_sprint/G.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fin.treesort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="K" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurs_alg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,12 +261,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_sprint" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_sprint" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_sprint/Fin.treesort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_sprint/K.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="H.konk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="L" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurs_alg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,34 +283,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_sprint" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_sprint" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_sprint/H.konk.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kurs_alg" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_sprint" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PycharmProjects\kurs_alg\5_sprint\my_solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_sprint/L.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Fin.treesort" />
-        <item itemvalue="Python.H.konk" />
-        <item itemvalue="Python.F.maxdeap" />
-        <item itemvalue="Python.D.ind" />
-        <item itemvalue="Python.C.anna" />
+        <item itemvalue="Python.B.Roads_in_X_town" />
+        <item itemvalue="Python.A.Pilim_gos_bedjet)))" />
+        <item itemvalue="Python.G" />
+        <item itemvalue="Python.L" />
+        <item itemvalue="Python.K" />
       </list>
     </recent_temporary>
   </component>
@@ -375,6 +353,13 @@
       <workItem from="1644676513702" duration="596000" />
       <workItem from="1644752598059" duration="8114000" />
       <workItem from="1645189037079" duration="19000" />
+      <workItem from="1645558682520" duration="1300000" />
+      <workItem from="1645618193305" duration="386000" />
+      <workItem from="1645625186270" duration="11846000" />
+      <workItem from="1645718212481" duration="11077000" />
+      <workItem from="1645803169292" duration="5307000" />
+      <workItem from="1645880543770" duration="12967000" />
+      <workItem from="1645962926264" duration="9443000" />
     </task>
     <servers />
   </component>
@@ -478,6 +463,16 @@
           <line>3</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6_sprint/L.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6_sprint/G.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -490,9 +485,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kurs_alg$1_task.coverage" NAME="1_task Coverage Results" MODIFIED="1641562529201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$A.coverage" NAME="A Coverage Results" MODIFIED="1645559716641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$.coverage" NAME="С Coverage Results" MODIFIED="1645628175363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$8.coverage" NAME="8 Coverage Results" MODIFIED="1641472996628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$L_sift_down__1_.coverage" NAME="L.sift_down (1) Coverage Results" MODIFIED="1644757610888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$J.coverage" NAME="J Coverage Results" MODIFIED="1645635199296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$5.coverage" NAME="5 Coverage Results" MODIFIED="1641466283354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$D.coverage" NAME="D Coverage Results" MODIFIED="1645723719432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$Qsort_by_me_with_love.coverage" NAME="Qsort_by_me_with_love Coverage Results" MODIFIED="1641498024541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$_.coverage" NAME="Ближайший ноль Coverage Results" MODIFIED="1637514058266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$calcWithLoveFromPoland.coverage" NAME="calcWithLoveFromPoland Coverage Results" MODIFIED="1639148112395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_sprint" />
@@ -504,12 +503,18 @@
     <SUITE FILE_PATH="coverage/kurs_alg$10_task.coverage" NAME="10_task Coverage Results" MODIFIED="1638814176366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$Fin_treesort.coverage" NAME="Fin.treesort Coverage Results" MODIFIED="1644761736595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$2_task.coverage" NAME="2_task Coverage Results" MODIFIED="1641575349656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$G.coverage" NAME="G Coverage Results" MODIFIED="1645890112568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$7_task.coverage" NAME="7_task Coverage Results" MODIFIED="1641556390217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$Break_array.coverage" NAME="Break_array Coverage Results" MODIFIED="1641485506435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$1.coverage" NAME="1 Coverage Results" MODIFIED="1637427126175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$A_Pilim_gos_bedjet___.coverage" NAME="A.Pilim_gos_bedjet))) Coverage Results" MODIFIED="1645972301345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$6.coverage" NAME="6 Coverage Results" MODIFIED="1641468033708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$E.coverage" NAME="E Coverage Results" MODIFIED="1645638024433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$B_Roads_in_X_town.coverage" NAME="B.Roads_in_X_town Coverage Results" MODIFIED="1645972693111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1638797012759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/kurs_alg$F.coverage" NAME="F Coverage Results" MODIFIED="1645724901498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$Hash_table_made_with_love_NO_.coverage" NAME="Hash_table_made_with_love(NO) Coverage Results" MODIFIED="1642157793298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$K.coverage" NAME="K Coverage Results" MODIFIED="1645805999005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$3_task.coverage" NAME="3_task Coverage Results" MODIFIED="1638795090700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$A_lamps.coverage" NAME="A.lamps Coverage Results" MODIFIED="1644239557727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$C_anna.coverage" NAME="C.anna Coverage Results" MODIFIED="1644758419696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_sprint" />
@@ -519,8 +524,10 @@
     <SUITE FILE_PATH="coverage/kurs_alg$Search_system_for_tim.coverage" NAME="Search_system_for_tim Coverage Results" MODIFIED="1643363610912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$Dec.coverage" NAME="Dec Coverage Results" MODIFIED="1639148719502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$E_treeSearch.coverage" NAME="E.treeSearch Coverage Results" MODIFIED="1644243389388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$L.coverage" NAME="L Coverage Results" MODIFIED="1645881345436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$9.coverage" NAME="9 Coverage Results" MODIFIED="1641475045181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$9_task.coverage" NAME="9_task Coverage Results" MODIFIED="1641888618837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$B.coverage" NAME="B Coverage Results" MODIFIED="1645559929695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$4_task.coverage" NAME="4_task Coverage Results" MODIFIED="1641554963176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$4.coverage" NAME="4 Coverage Results" MODIFIED="1641465764223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$7.coverage" NAME="7 Coverage Results" MODIFIED="1641468982614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
@@ -531,6 +538,7 @@
     <SUITE FILE_PATH="coverage/kurs_alg$ALGO.coverage" NAME="ALGO Coverage Results" MODIFIED="1637439651543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kurs_alg$M_up_shift.coverage" NAME="M.up_shift Coverage Results" MODIFIED="1644756173828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$L_shift_down.coverage" NAME="L.shift_down Coverage Results" MODIFIED="1644756227752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$H.coverage" NAME="H Coverage Results" MODIFIED="1645631249694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$5_task.coverage" NAME="5_task Coverage Results" MODIFIED="1641569206824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$F_maxdeap.coverage" NAME="F.maxdeap Coverage Results" MODIFIED="1644759273150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$code.coverage" NAME="code Coverage Results" MODIFIED="1641476500826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
