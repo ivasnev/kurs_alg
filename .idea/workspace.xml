@@ -186,7 +186,7 @@
       <recent name="C:\Users\ivasn\PycharmProjects\kurs_alg\vvedenie" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.B.Roads_in_X_town">
+  <component name="RunManager" selected="Python.A.Pilim_gos_bedjet)))">
     <configuration name="A.Pilim_gos_bedjet)))" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurs_alg" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,8 +299,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.B.Roads_in_X_town" />
         <item itemvalue="Python.A.Pilim_gos_bedjet)))" />
+        <item itemvalue="Python.B.Roads_in_X_town" />
         <item itemvalue="Python.G" />
         <item itemvalue="Python.L" />
         <item itemvalue="Python.K" />
@@ -360,6 +360,7 @@
       <workItem from="1645803169292" duration="5307000" />
       <workItem from="1645880543770" duration="12967000" />
       <workItem from="1645962926264" duration="9443000" />
+      <workItem from="1646225675585" duration="3870000" />
     </task>
     <servers />
   </component>
@@ -507,10 +508,10 @@
     <SUITE FILE_PATH="coverage/kurs_alg$7_task.coverage" NAME="7_task Coverage Results" MODIFIED="1641556390217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$Break_array.coverage" NAME="Break_array Coverage Results" MODIFIED="1641485506435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$1.coverage" NAME="1 Coverage Results" MODIFIED="1637427126175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_sprint" />
-    <SUITE FILE_PATH="coverage/kurs_alg$A_Pilim_gos_bedjet___.coverage" NAME="A.Pilim_gos_bedjet))) Coverage Results" MODIFIED="1645972301345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$A_Pilim_gos_bedjet___.coverage" NAME="A.Pilim_gos_bedjet))) Coverage Results" MODIFIED="1646227480985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$6.coverage" NAME="6 Coverage Results" MODIFIED="1641468033708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$E.coverage" NAME="E Coverage Results" MODIFIED="1645638024433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
-    <SUITE FILE_PATH="coverage/kurs_alg$B_Roads_in_X_town.coverage" NAME="B.Roads_in_X_town Coverage Results" MODIFIED="1645972693111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
+    <SUITE FILE_PATH="coverage/kurs_alg$B_Roads_in_X_town.coverage" NAME="B.Roads_in_X_town Coverage Results" MODIFIED="1646226277583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1638797012759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/kurs_alg$F.coverage" NAME="F Coverage Results" MODIFIED="1645724901498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_sprint" />
     <SUITE FILE_PATH="coverage/kurs_alg$Hash_table_made_with_love_NO_.coverage" NAME="Hash_table_made_with_love(NO) Coverage Results" MODIFIED="1642157793298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sprint" />
