@@ -1,4 +1,4 @@
-#ID 66181506
+# ID 66200689
 # Алгоритм Левейнштейна работает за О(N*M) по времени,
 # и за O(2M) по памяти
 
@@ -9,16 +9,17 @@ def alg_levin(x, y):
             return 0
         return 1
 
-    d_prev = [i for i in range(len(y) + 1)]
-    d_next = [0 for _ in range(len(y) + 1)]
+    d = [[i for i in range(len(y) + 1)],
+         [0 for _ in range(len(y) + 1)]]
+    ind = 1
     for i in range(1, len(x) + 1):
-        d_next[0] = d_prev[0] + 1
+        d[ind][0] = d[ind-1][0] + 1
         for j in range(1, len(y) + 1):
-            d_next[j] = min(d_prev[j] + 1,
-                          d_next[j - 1] + 1,
-                          d_prev[j - 1] + m(x[i - 1], y[j - 1]))
-        d_prev = d_next.copy()
-    return d_next[-1]
+            d[ind][j] = min(d[ind-1][j] + 1,
+                            d[ind][j - 1] + 1,
+                            d[ind-1][j - 1] + m(x[i - 1], y[j - 1]))
+        ind = (ind + 1) % 2
+    return d[(ind + 1) % 2][-1]
 
 
 def main():
