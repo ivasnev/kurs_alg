@@ -1,12 +1,14 @@
-s = list("0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,a,b,c,d,e,f".split(","))
-f = open("gener_in", "w")
-s_t = "else if ("
-while len(s) != 1:
-    tmp = s.pop()
-    s_t += "'" + tmp + "' == symbol ||\n"
-tmp = s.pop()
-s_t += "'" + tmp + "' == symbol"
-s_t += "){\n\tstate = ST;\n}\n"
-f.write(s_t)
-# s_t = "else {\n\tstate = ERROR;\n}\n"
-# f.write(s_t)
+board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
+
+if not any(board): print("sasa")
+
+m, n = len(board), len(board[0])
+save = [ij for k in range(m) for ij in ((k, 0), (k, n-1))]
+save += [ij for k in range(n) for ij in ((0, k), (m-1, k))]
+while save:
+    i, j = save.pop()
+    if 0 <= i < m and 0 <= j < n and board[i][j] == 'O':
+        board[i][j] = 'S'
+        save += (i, j-1), (i, j+1), (i-1, j), (i+1, j)
+
+board[:] = [['XO'[c == 'S'] for c in row] for row in board]
